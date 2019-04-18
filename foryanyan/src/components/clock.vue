@@ -1,6 +1,6 @@
 <template>
     <div class="clock">
-        this is a {{ clock }}
+        {{ d }} Days {{ h }} Hours {{ m }} Minutes {{ s }} Seconds
     </div>
 </template>
 
@@ -8,10 +8,21 @@
     export default {
         name: 'clock',
         props: {
+          d: {
+            default: 0,
+          },
+          h: {
+            default: 0,
+          },
+          m: {
+            default: 0,
+          },
+          s: {
+            default: 0,
+          },
         },
         data() {
             return {
-                clock: 'clock',
             }
         }
     }
