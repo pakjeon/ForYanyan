@@ -11,6 +11,17 @@
           <swiper :options="swiperOptionTop" class="gallery-top" ref="swiperTop">
               <swiper-slide class="slide-1"></swiper-slide>
               <swiper-slide class="slide-2"></swiper-slide>
+              <swiper-slide class="slide-3"></swiper-slide>
+              <swiper-slide class="slide-4"></swiper-slide>
+              <swiper-slide class="slide-5"></swiper-slide>
+              <swiper-slide class="slide-6"></swiper-slide>
+              <swiper-slide class="slide-7"></swiper-slide>
+              <swiper-slide class="slide-8"></swiper-slide>
+              <swiper-slide class="slide-9"></swiper-slide>
+              <swiper-slide class="slide-10"></swiper-slide>
+              <swiper-slide class="slide-11"></swiper-slide>
+              <swiper-slide class="slide-12"></swiper-slide>
+              <swiper-slide class="slide-13"></swiper-slide>
               <div class="swiper-button-next swiper-button-white" slot="button-next"></div>
               <div class="swiper-button-prev swiper-button-white" slot="button-prev"></div>
           </swiper>
@@ -18,6 +29,17 @@
           <swiper :options="swiperOptionThumbs" class="gallery-thumbs" ref="swiperThumbs">
               <swiper-slide class="slide-1"></swiper-slide>
               <swiper-slide class="slide-2"></swiper-slide>
+              <swiper-slide class="slide-3"></swiper-slide>
+              <swiper-slide class="slide-4"></swiper-slide>
+              <swiper-slide class="slide-5"></swiper-slide>
+              <swiper-slide class="slide-6"></swiper-slide>
+              <swiper-slide class="slide-7"></swiper-slide>
+              <swiper-slide class="slide-8"></swiper-slide>
+              <swiper-slide class="slide-9"></swiper-slide>
+              <swiper-slide class="slide-10"></swiper-slide>
+              <swiper-slide class="slide-11"></swiper-slide>
+              <swiper-slide class="slide-12"></swiper-slide>
+              <swiper-slide class="slide-13"></swiper-slide>
           </swiper>
       </div>
 
@@ -61,20 +83,20 @@ export default {
         slideToClickedSlide: true
       },
       coverIndex: 0,
-      coverList: [
-        {
-          cover: require('../src/assets/photo/1 (1).png'),
-          title: '猪猪燕',
-        },
-        {
-          cover: require('../src/assets/photo/1 (2).png'),
-          title: '燕仔',
-        },
-        {
-          cover: require('../src/assets/photo/1 (3).png'),
-          title: '燕儿',
-        },
-      ],
+      // coverList: [
+      //   {
+      //     cover: require('../src/assets/photo/1 (1).png'),
+      //     title: '猪猪燕',
+      //   },
+      //   {
+      //     cover: require('../src/assets/photo/1 (2).png'),
+      //     title: '燕仔',
+      //   },
+      //   {
+      //     cover: require('../src/assets/photo/1 (3).png'),
+      //     title: '燕儿',
+      //   },
+      // ],
     };
   },
   created() {
@@ -212,11 +234,55 @@ export default {
             transition-property: transform;
             transition-property: transform,-webkit-transform;
             &.slide-1 {
-                background: url('../src/assets/photo/IMG_6096.png') center no-repeat;
+                background: url('../src/assets/photo/1.png') center no-repeat;
                 background-size: 100%;
             }
             &.slide-2 {
-                background: url('../src/assets/photo/IMG_6096.png') center no-repeat;
+                background: url('../src/assets/photo/2.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-3 {
+                background: url('../src/assets/photo/3.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-4 {
+                background: url('../src/assets/photo/4.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-5 {
+                background: url('../src/assets/photo/5.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-6 {
+                background: url('../src/assets/photo/6.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-7 {
+                background: url('../src/assets/photo/7.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-8 {
+                background: url('../src/assets/photo/8.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-9 {
+                background: url('../src/assets/photo/9.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-10 {
+                background: url('../src/assets/photo/10.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-11 {
+                background: url('../src/assets/photo/11.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-12 {
+                background: url('../src/assets/photo/12.png') center no-repeat;
+                background-size: 100%;
+            }
+            &.slide-13 {
+                background: url('../src/assets/photo/13.png') center no-repeat;
                 background-size: 100%;
             }
         }
