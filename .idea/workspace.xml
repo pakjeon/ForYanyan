@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0854c1-c904-4804-8393-7d40182c98b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/foryanyan/public/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foryanyan/src/assets/photo/12_副本.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foryanyan/src/assets/photo/13_副本.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foryanyan/src/assets/photo/14_副本.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foryanyan/src/assets/photo/6_副本.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foryanyan/src/assets/photo/9_副本.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foryanyan/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/foryanyan/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foryanyan/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/foryanyan/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foryanyan/src/assets/photo/1 (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foryanyan/src/assets/photo/1 (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foryanyan/src/assets/photo/1 (3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foryanyan/src/assets/photo/1 (4).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foryanyan/src/assets/photo/1 (5).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/foryanyan/src/assets/photo/1 (6).png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,23 +25,23 @@
     <favorites_list name="ForYanyan" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5628458">
+    <splitter split-orientation="horizontal" split-proportion="0.513834">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/foryanyan/src/App.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="258">
-                  <caret line="284" column="55" selection-start-line="284" selection-start-column="55" selection-end-line="284" selection-end-column="55" />
+                <state relative-caret-position="2626">
+                  <caret line="203" column="9" selection-start-line="203" selection-start-column="9" selection-end-line="203" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/foryanyan/public/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="481">
-                  <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+                <state relative-caret-position="78">
+                  <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -69,8 +70,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/foryanyan/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="169">
-                  <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+                <state relative-caret-position="13">
+                  <caret line="1" column="20" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -100,8 +101,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/foryanyan/src/App.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2366">
-                  <caret line="205" column="12" selection-start-line="205" selection-start-column="12" selection-end-line="205" selection-end-column="12" />
+                <state relative-caret-position="2652">
+                  <caret line="208" column="12" selection-start-line="208" selection-start-column="12" selection-end-line="208" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -118,8 +119,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/foryanyan/src/components/lineStar.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="94">
-                  <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+                <state relative-caret-position="74">
+                  <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -141,6 +142,7 @@
       <find>8080</find>
       <find>png</find>
       <find>1 (</find>
+      <find>favicon.ico</find>
     </findStrings>
     <dirStrings>
       <dir>D:\app\ForYanyan\foryanyan\node_modules\@vue\cli-service\lib</dir>
@@ -157,18 +159,18 @@
         <option value="$PROJECT_DIR$/foryanyan/src/main.js" />
         <option value="$PROJECT_DIR$/foryanyan/src/common/utils.js" />
         <option value="$PROJECT_DIR$/foryanyan/src/components/lineStar.vue" />
-        <option value="$PROJECT_DIR$/foryanyan/package.json" />
-        <option value="$PROJECT_DIR$/foryanyan/public/index.html" />
         <option value="$PROJECT_DIR$/foryanyan/src/components/clock.vue" />
         <option value="$PROJECT_DIR$/foryanyan/src/App.vue" />
+        <option value="$PROJECT_DIR$/foryanyan/package.json" />
+        <option value="$PROJECT_DIR$/foryanyan/public/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="230" />
-    <option name="y" value="-28" />
+    <option name="x" value="195" />
+    <option name="y" value="-23" />
     <option name="width" value="1440" />
-    <option name="height" value="773" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,14 +229,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/foryanyan/src/assets/music" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/foryanyan/public" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -241,6 +243,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\app\ForYanyan\foryanyan\public" />
       <recent name="D:\app\ForYanyan\foryanyan\src\assets\music" />
       <recent name="D:\app\ForYanyan\foryanyan\src\assets\photo" />
     </key>
@@ -284,7 +287,8 @@
       <workItem from="1559915679311" duration="3167000" />
       <workItem from="1560065812697" duration="1996000" />
       <workItem from="1560169362190" duration="3531000" />
-      <workItem from="1560347705495" duration="4393000" />
+      <workItem from="1560347705495" duration="4884000" />
+      <workItem from="1560437207109" duration="4604000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1555427773248</created>
@@ -321,15 +325,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560171117551</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="换图">
+      <created>1560355295105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560355295105</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55560000" />
+    <option name="totallyTimeSpent" value="60655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.164465" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.24966975" />
@@ -343,7 +353,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2407932" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30311614" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -358,7 +368,8 @@
     <MESSAGE value="添加相册组件" />
     <MESSAGE value="添加计时器、字幕烟花" />
     <MESSAGE value="搭建完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="搭建完成" />
+    <MESSAGE value="换图" />
+    <option name="LAST_COMMIT_MESSAGE" value="换图" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/foryanyan/public/favicon.ico">
@@ -423,13 +434,7 @@
     <entry file="file://$PROJECT_DIR$/foryanyan/node_modules/_vue-awesome-swiper@3.1.3@vue-awesome-swiper/dist/vue-awesome-swiper.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/foryanyan/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/foryanyan/src/assets/photo/13.jpg" />
     <entry file="file://$PROJECT_DIR$/foryanyan/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -444,13 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foryanyan/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -477,18 +475,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foryanyan/src/components/lineStar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="74">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foryanyan/src/assets/photo/13.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/foryanyan/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foryanyan/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="284" column="55" selection-start-line="284" selection-start-column="55" selection-end-line="284" selection-end-column="55" />
+        <state relative-caret-position="2626">
+          <caret line="203" column="9" selection-start-line="203" selection-start-column="9" selection-end-line="203" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foryanyan/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>

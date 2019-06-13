@@ -14,14 +14,14 @@
               <swiper-slide class="slide-3"></swiper-slide>
               <swiper-slide class="slide-4"></swiper-slide>
               <swiper-slide class="slide-5"></swiper-slide>
-              <swiper-slide class="slide-6"></swiper-slide>
-              <swiper-slide class="slide-7"></swiper-slide>
-              <swiper-slide class="slide-8"></swiper-slide>
-              <swiper-slide class="slide-9"></swiper-slide>
-              <swiper-slide class="slide-10"></swiper-slide>
-              <swiper-slide class="slide-11"></swiper-slide>
-              <swiper-slide class="slide-12"></swiper-slide>
-              <swiper-slide class="slide-13"></swiper-slide>
+<!--              <swiper-slide class="slide-6"></swiper-slide>-->
+<!--              <swiper-slide class="slide-7"></swiper-slide>-->
+<!--              <swiper-slide class="slide-8"></swiper-slide>-->
+<!--              <swiper-slide class="slide-9"></swiper-slide>-->
+<!--              <swiper-slide class="slide-10"></swiper-slide>-->
+<!--              <swiper-slide class="slide-11"></swiper-slide>-->
+<!--              <swiper-slide class="slide-12"></swiper-slide>-->
+<!--              <swiper-slide class="slide-13"></swiper-slide>-->
               <div class="swiper-button-next swiper-button-white" slot="button-next"></div>
               <div class="swiper-button-prev swiper-button-white" slot="button-prev"></div>
           </swiper>
@@ -32,14 +32,14 @@
               <swiper-slide class="slide-3"></swiper-slide>
               <swiper-slide class="slide-4"></swiper-slide>
               <swiper-slide class="slide-5"></swiper-slide>
-              <swiper-slide class="slide-6"></swiper-slide>
-              <swiper-slide class="slide-7"></swiper-slide>
-              <swiper-slide class="slide-8"></swiper-slide>
-              <swiper-slide class="slide-9"></swiper-slide>
-              <swiper-slide class="slide-10"></swiper-slide>
-              <swiper-slide class="slide-11"></swiper-slide>
-              <swiper-slide class="slide-12"></swiper-slide>
-              <swiper-slide class="slide-13"></swiper-slide>
+<!--              <swiper-slide class="slide-6"></swiper-slide>-->
+<!--              <swiper-slide class="slide-7"></swiper-slide>-->
+<!--              <swiper-slide class="slide-8"></swiper-slide>-->
+<!--              <swiper-slide class="slide-9"></swiper-slide>-->
+<!--              <swiper-slide class="slide-10"></swiper-slide>-->
+<!--              <swiper-slide class="slide-11"></swiper-slide>-->
+<!--              <swiper-slide class="slide-12"></swiper-slide>-->
+<!--              <swiper-slide class="slide-13"></swiper-slide>-->
           </swiper>
       </div>
 
@@ -191,7 +191,10 @@ export default {
         background-color: #f2f2f2;
         margin: 0 auto;
         .swiper-container {
-            background: #fefefe;
+            background: -webkit-linear-gradient(#c6ced7, #e9c6d0); /* Safari 5.1 - 6.0 */
+            background: -o-linear-gradient(#c6ced7, #e9c6d0); /* Opera 11.1 - 12.0 */
+            background: -moz-linear-gradient(#c6ced7, #e9c6d0); /* Firefox 3.6 - 15 */
+            background: linear-gradient(#c6ced7, #e9c6d0); /* 标准的语法 */
             margin: 0 auto;
             position: relative;
             overflow: hidden;
@@ -234,57 +237,57 @@ export default {
             transition-property: transform;
             transition-property: transform,-webkit-transform;
             &.slide-1 {
-                background: url('../src/assets/photo/1.png') center no-repeat;
+                background: url('../src/assets/photo/14_副本.png') center no-repeat;
                 background-size: 100%;
             }
             &.slide-2 {
-                background: url('../src/assets/photo/2.png') center no-repeat;
+                background: url('../src/assets/photo/9_副本.png') center no-repeat;
                 background-size: 100%;
             }
             &.slide-3 {
-                background: url('../src/assets/photo/3.png') center no-repeat;
+                background: url('../src/assets/photo/13_副本.png') center no-repeat;
                 background-size: 100%;
             }
             &.slide-4 {
-                background: url('../src/assets/photo/4.png') center no-repeat;
+                background: url('../src/assets/photo/6_副本.png') center no-repeat;
                 background-size: 100%;
             }
             &.slide-5 {
-                background: url('../src/assets/photo/5.png') center no-repeat;
+                background: url('../src/assets/photo/12_副本.png') center no-repeat;
                 background-size: 100%;
             }
-            &.slide-6 {
-                background: url('../src/assets/photo/6.png') center no-repeat;
-                background-size: 100%;
-            }
-            &.slide-7 {
-                background: url('../src/assets/photo/7.png') center no-repeat;
-                background-size: 100%;
-            }
-            &.slide-8 {
-                background: url('../src/assets/photo/8.png') center no-repeat;
-                background-size: 100%;
-            }
-            &.slide-9 {
-                background: url('../src/assets/photo/9.png') center no-repeat;
-                background-size: 100%;
-            }
-            &.slide-10 {
-                background: url('../src/assets/photo/10.png') center no-repeat;
-                background-size: 100%;
-            }
-            &.slide-11 {
-                background: url('../src/assets/photo/11.png') center no-repeat;
-                background-size: 100%;
-            }
-            &.slide-12 {
-                background: url('../src/assets/photo/12.png') center no-repeat;
-                background-size: 100%;
-            }
-            &.slide-13 {
-                background: url('../src/assets/photo/13.png') center no-repeat;
-                background-size: 100%;
-            }
+            /*&.slide-6 {*/
+            /*    background: url('../src/assets/photo/6.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
+            /*&.slide-7 {*/
+            /*    background: url('../src/assets/photo/7.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
+            /*&.slide-8 {*/
+            /*    background: url('../src/assets/photo/8.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
+            /*&.slide-9 {*/
+            /*    background: url('../src/assets/photo/9.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
+            /*&.slide-10 {*/
+            /*    background: url('../src/assets/photo/10.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
+            /*&.slide-11 {*/
+            /*    background: url('../src/assets/photo/11.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
+            /*&.slide-12 {*/
+            /*    background: url('../src/assets/photo/12.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
+            /*&.slide-13 {*/
+            /*    background: url('../src/assets/photo/13.png') center no-repeat;*/
+            /*    background-size: 100%;*/
+            /*}*/
         }
         .swiper-button-next,.swiper-button-prev {
             position: absolute;
